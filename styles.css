@@ -1,0 +1,15 @@
+body{
+    color:black;
+    background-color: silver ;
+    border: 10px solid purple;
+    padding: 30px;
+    font-family: sans-serif, "Time new Roman" ;
+}
+
+.main{
+    color: rgb(255, 123, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+
+
+}
